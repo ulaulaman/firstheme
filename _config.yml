@@ -1,0 +1,14 @@
+# site.title
+
+############################
+title:    'First Theme'
+subtitle: 'Another Theme'
+
+twitter_username: ulaulaman
+github_username:  ulaulaman
+
+# Build settings
+markdown: kramdown
+
+exclude:
+- README.md
