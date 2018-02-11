@@ -2,7 +2,6 @@
  * css styles go here
  */
 
-
 body {
   font-family: Helvetica,Arial,sans-serif;
 }
@@ -15,9 +14,6 @@ a, a:visited {
 a:hover {
   text-decoration: underline;
 }
-
-
-
 
 #header {
   padding: 4px;
@@ -38,6 +34,6 @@ a:hover {
   padding: 6px;
 }
 
-
-
-
+.site-footer {
+  border-top: 2px solid;
+}
