@@ -36,9 +36,9 @@ a:hover {
 
 .site-footer {
   border-top: 2px solid;
-  border-top-color: #003366;
+  border-color: #003366;
 }
 
 .wrapper {
-  background: #f2f2f2;
+  background-color: #f2f2f2;
 }
