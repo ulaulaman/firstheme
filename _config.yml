@@ -5,8 +5,8 @@ subtitle: 'My first githubpages theme'
 description: > # this means to ignore newlines until "baseurl:"
   My first theme for a github page
 
+username: ulaulaman
 twitter_username: ulaulaman
-github_username:  ulaulaman
 
 # Build settings
 markdown: kramdown
