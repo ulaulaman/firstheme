@@ -31,6 +31,7 @@ a:hover {
   font-size:    90%;
   color:        grey;
   padding-left: 15px;
+  text-shadow: 3px 2px #ffffff;
 }
 
 #nav {
