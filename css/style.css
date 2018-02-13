@@ -33,10 +33,6 @@ a:hover {
   text-shadow: 3px 2px #000000;
 }
 
-#nav {
-  padding: 6px;
-}
-
 menu {
     list-style-type: none;
     margin: 0;
@@ -67,7 +63,6 @@ page a:hover:not(.active) {
 }
 
 .wrapper {
-  background-color: #ffffff;
 }
 
 .footer-grid-container {
@@ -90,7 +85,7 @@ page a:hover:not(.active) {
 .post {
   padding-left: 25%;
   padding-right: 25%;
-  width=50%;
+  width: 50%;
   background-color: #ffffe6;
   border: 2px solid #003399;
 }
