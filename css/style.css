@@ -19,7 +19,7 @@ a:hover {
   padding: 4px;
   background-color: #ff6600;
   border-down: 2px solid;
-  border-color: #ff3300;
+  border-color: #800000;
 }
 
 #header .big {
@@ -31,7 +31,7 @@ a:hover {
   font-size:    90%;
   color:        grey;
   padding-left: 15px;
-  text-shadow: 3px 2px #ffffff;
+  text-shadow: 3px 2px #000000;
 }
 
 #nav {
