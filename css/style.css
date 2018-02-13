@@ -18,8 +18,7 @@ a:hover {
 #header {
   padding: 4px;
   background-color: #ff6600;
-  border-down: 2px solid;
-  border-color: #800000;
+  border-bottom: 2px solid #800000;
 }
 
 #header .big {
@@ -29,7 +28,7 @@ a:hover {
 
 #header .small {
   font-size:    90%;
-  color:        grey;
+  color: #ffff99;
   padding-left: 15px;
   text-shadow: 3px 2px #000000;
 }
