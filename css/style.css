@@ -37,7 +37,7 @@ a:hover {
   padding: 6px;
 }
 
-ul .nav {
+menu {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -45,12 +45,11 @@ ul .nav {
     background-color: #333;
 }
 
-li .nav {
+page {
     float: left;
-    border-right:1px solid #bbb;
 }
 
-li .nav a {
+page a {
     display: block;
     color: white;
     text-align: center;
@@ -58,12 +57,12 @@ li .nav a {
     text-decoration: none;
 }
 
-li .nav a:hover:not(.active) {
+a:hover:not(.active) {
     background-color: #111;
 }
 
 .active {
-    background-color: #4CAF50;
+background-color:#4CAF50;
 }
 
 .site-footer {
