@@ -87,7 +87,10 @@ page a:hover:not(.active) {
   text-align: center;
 }
 
-.home {
+.post {
   padding-left: 25%;
   padding-right: 25%;
+  width=50%;
+  background-color: #ffffe6;
+  border: 2px solid #003399;
 }
