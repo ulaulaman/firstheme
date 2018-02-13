@@ -17,6 +17,9 @@ a:hover {
 
 #header {
   padding: 4px;
+  background-color: #ff6600;
+  border-down: 2px solid;
+  border-color: #ff3300;
 }
 
 #header .big {
