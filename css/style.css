@@ -58,7 +58,7 @@ page a {
 }
 
 a:hover:not(.active) {
-    background-color: #111;
+    background-color: #367c39;
 }
 
 .site-footer {
