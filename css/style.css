@@ -57,7 +57,7 @@ page a {
     text-decoration: none;
 }
 
-a:hover:not(.active) {
+page a:hover:not(.active) {
     background-color: #367c39;
 }
 
@@ -74,15 +74,20 @@ a:hover:not(.active) {
   display: grid;
   grid-column-gap: 5px;
   grid-template-columns: 33% 33% 33%;
-  background-color: #f2f2f2;
+  background-color: #ff6600;
   padding: 10px;
 }
 
 .footer-grid-item {
-  background-color: #99ccff;
+  background-color: #4CAF50;
   color: #ffffff;
   border: 1px solid #003366;
   padding: 20px;
   font-size: 12px;
   text-align: center;
+}
+
+.home {
+  padding-left: 25%;
+  padding-right: 25%;
 }
